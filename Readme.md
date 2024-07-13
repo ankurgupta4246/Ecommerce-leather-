@@ -7,6 +7,5 @@ The Leather Company website is a website for selling leather products. This proj
 
 The aforementioned improvements will make it easier for visitors to browse the website and place online orders for new products. Additionally, it will aid the learners in understanding the fundamental components of an e-commerce website.
 
-Visit the website: [Leather Company](https://leatherhoard.netlify.app/)
 
 
